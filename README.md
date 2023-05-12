@@ -66,7 +66,6 @@ This project aims to create an ec2 instance  to run nginx container inside it ,t
  
 
 
-## Deployment
 
 ## Deployment
 
