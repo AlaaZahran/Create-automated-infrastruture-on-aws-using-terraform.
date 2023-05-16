@@ -1,7 +1,7 @@
 
-# Project Title
+# Create automated infrastruture on aws using terraform.
 
-Create automated infrastruture on aws using terraform.
+![image](https://github.com/AlaaZahran/2-Tier-App-using--terraform/assets/46306526/01fb2d58-67db-4f90-a70d-774b9a7e048a)
 
 
 
@@ -86,6 +86,6 @@ To deploy this project run:
   terraform applay
 ```
 
-## Project Diagram
 
-![image](https://github.com/AlaaZahran/2-Tier-App-using--terraform/assets/46306526/01fb2d58-67db-4f90-a70d-774b9a7e048a)
+
+
